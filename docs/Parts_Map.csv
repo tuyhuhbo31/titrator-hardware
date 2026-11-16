@@ -1,0 +1,30 @@
+﻿Имя;Что это;Материал;Изготовление;Кол-во;Файл изготовления;STEP
+Base;Дно основного корпуса. 400.0 × 280.0 × 3;фанера 3 мм;лазер;1;01_body/dxf/Base.dxf;01_body/step/Base.step
+Back_Panel;"Задняя стенка основного корпуса; новые крепления электрода Rev11. 400.0 × 350.0 × 3";фанера 3 мм;лазер;1;01_body/dxf/Back_Panel.dxf;01_body/step/Back_Panel.step
+Side_Panel_Left;"Правая стенка основного корпуса (при взгляде спереди; историческое имя Left). 280.0 × 350.0 × 3";фанера 3 мм;лазер;1;01_body/dxf/Side_Panel_Left.dxf;01_body/step/Side_Panel_Left.step
+Side_Panel_Right;"Левая стенка основного корпуса (при взгляде спереди; историческое имя Right). 280.0 × 350.0 × 3";фанера 3 мм;лазер;1;01_body/dxf/Side_Panel_Right.dxf;01_body/step/Side_Panel_Right.step
+Top_Panel;Верхняя панель основного корпуса / основание кожуха насоса. 400.0 × 280.0 × 3;фанера 3 мм;лазер;1;01_body/dxf/Top_Panel.dxf;01_body/step/Top_Panel.step
+Electronics_Rail_Left;"Правая опора крышки электроотсека (при взгляде спереди; историческое имя Left). 20.0 × 274.0 × 3";фанера 3 мм;лазер;1;01_body/dxf/Electronics_Rail_Left.dxf;01_body/step/Electronics_Rail_Left.step
+Electronics_Rail_Right;"Левая опора крышки электроотсека (при взгляде спереди; историческое имя Right). 20.0 × 274.0 × 3";фанера 3 мм;лазер;1;01_body/dxf/Electronics_Rail_Right.dxf;01_body/step/Electronics_Rail_Right.step
+Electronics_Rail_Rear;Задняя опора крышки электроотсека. 360.0 × 20.0 × 3;фанера 3 мм;лазер;1;01_body/dxf/Electronics_Rail_Rear.dxf;01_body/step/Electronics_Rail_Rear.step
+Electronics_Rail_Front;Передняя опора крышки электроотсека. 360.0 × 20.0 × 3;фанера 3 мм;лазер;1;01_body/dxf/Electronics_Rail_Front.dxf;01_body/step/Electronics_Rail_Front.step
+Electronics_Lid_Removable;Съёмная крышка электроотсека с проёмом 100×100 мм. 393.4 × 273.4 × 3;фанера 3 мм;лазер;1;01_body/dxf/Electronics_Lid_Removable.dxf;01_body/step/Electronics_Lid_Removable.step
+Electronics_Front;Нижняя неподвижная передняя стенка электроотсека. 400.0 × 95.0 × 3;фанера 3 мм;лазер;1;01_body/dxf/Electronics_Front.dxf;01_body/step/Electronics_Front.step
+Front_Door.new;Большая передняя дверца / съёмная панель. 392.4 × 250.2 × 3;фанера 3 мм;лазер;1;01_body/dxf/Front_Door.new.dxf;01_body/step/Front_Door.new.step
+Pump_Cover_Left;"Правая стенка кожуха насоса (при взгляде спереди; историческое имя Left). 150.0 × 155.0 × 3";фанера 3 мм;лазер;1;01_body/dxf/Pump_Cover_Left.dxf;01_body/step/Pump_Cover_Left.step
+Pump_Cover_Right;"Левая стенка кожуха насоса (при взгляде спереди; историческое имя Right). 150.0 × 155.0 × 3";фанера 3 мм;лазер;1;01_body/dxf/Pump_Cover_Right.dxf;01_body/step/Pump_Cover_Right.step
+Pump_Cover_Rear;Задняя стенка кожуха насоса. 400.0 × 158.0 × 3;фанера 3 мм;лазер;1;01_body/dxf/Pump_Cover_Rear.dxf;01_body/step/Pump_Cover_Rear.step
+Pump_Cover_Front;Передняя стенка кожуха насоса. 400.0 × 158.0 × 3;фанера 3 мм;лазер;1;01_body/dxf/Pump_Cover_Front.dxf;01_body/step/Pump_Cover_Front.step
+Pump_Rail_Left;"Правая опора крышки насоса (при взгляде спереди; историческое имя Left). 20.0 × 144.0 × 3";фанера 3 мм;лазер;1;01_body/dxf/Pump_Rail_Left.dxf;01_body/step/Pump_Rail_Left.step
+Pump_Rail_Right;"Левая опора крышки насоса (при взгляде спереди; историческое имя Right). 20.0 × 144.0 × 3";фанера 3 мм;лазер;1;01_body/dxf/Pump_Rail_Right.dxf;01_body/step/Pump_Rail_Right.step
+Pump_Rail_Rear;Задняя опора крышки насоса. 360.0 × 20.0 × 3;фанера 3 мм;лазер;1;01_body/dxf/Pump_Rail_Rear.dxf;01_body/step/Pump_Rail_Rear.step
+Pump_Rail_Front;Передняя опора крышки насоса. 360.0 × 20.0 × 3;фанера 3 мм;лазер;1;01_body/dxf/Pump_Rail_Front.dxf;01_body/step/Pump_Rail_Front.step
+Pump_Cover_Lid.new;"Уменьшенная съёмная крышка насоса, отверстие Ø20 мм. 392.4 × 139.9 × 3; опирание: 16.2 мм по торцам, 14.95 мм вдоль длинных сторон в ровном корпусе";фанера 3 мм;лазер;1;01_body/dxf/Pump_Cover_Lid.new.dxf;01_body/step/Pump_Cover_Lid.new.step
+Electrode_Fixed_Rail_Rev13;Неподвижная направляющая, ход 100 мм;PETG;3D-печать;1;02_electrode/stl/Electrode_Fixed_Rail_Rev13_x1.stl;02_electrode/step/Electrode_Fixed_Rail_Rev13.step
+Electrode_Back_Plate_Rev13;Наружная ответная пластина;PETG;3D-печать;1;02_electrode/stl/Electrode_Back_Plate_Rev13_x1.stl;02_electrode/step/Electrode_Back_Plate_Rev13.step
+Electrode_Carriage_Arm_Rev13;Каретка с рычагом и половиной зажима Ø14 мм;PETG;3D-печать;1;02_electrode/stl/Electrode_Carriage_Arm_Rev13_x1.stl;02_electrode/step/Electrode_Carriage_Arm_Rev13.step
+Electrode_Clamp_Jaw_Rev13;Передняя половина зажима Ø14 мм;PETG;3D-печать;1;02_electrode/stl/Electrode_Clamp_Jaw_Rev13_x1.stl;02_electrode/step/Electrode_Clamp_Jaw_Rev13.step
+Electrode_Sliding_Nut_Bar_Rev13;Подвижная планка для двух гаек;PETG;3D-печать;1;02_electrode/stl/Electrode_Sliding_Nut_Bar_Rev13_x1.stl;02_electrode/step/Electrode_Sliding_Nut_Bar_Rev13.step
+Electrode_Thumb_Cap_Rev13;Необязательная ручка винта фиксации высоты;PETG;3D-печать;2;02_electrode/stl/Electrode_Thumb_Cap_Rev13_x2.stl;02_electrode/step/Electrode_Thumb_Cap_Rev13.step
+Hinge_Side_Leaf_M3x30;Половина дверной петли на боковой стенке;PETG;3D-печать;2;03_hinges/stl/Hinge_Side_Leaf_M3x30_x2.stl;03_hinges/step/Hinge_Side_Leaf_M3x30.step
+Hinge_Door_Leaf_M3x30;Половина дверной петли на дверце;PETG;3D-печать;2;03_hinges/stl/Hinge_Door_Leaf_M3x30_x2.stl;03_hinges/step/Hinge_Door_Leaf_M3x30.step

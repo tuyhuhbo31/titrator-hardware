@@ -1,0 +1,150 @@
+{
+  "revision": 13,
+  "nominal_clamp_bore_mm": 14,
+  "electrode_diameter_mm": 13.7,
+  "jaw_gap_when_bare_rod_contact_mm": 0.7,
+  "travel_mm": 100,
+  "rail_slot_length_mm": 112,
+  "carriage_key_height_mm": 12,
+  "guide_clearance_each_side_mm": 0.2,
+  "rail_height_mm": 146,
+  "mount_holes_unchanged_XZ_mm": [
+    [
+      281,
+      219
+    ],
+    [
+      281,
+      301
+    ],
+    [
+      339,
+      219
+    ],
+    [
+      339,
+      301
+    ]
+  ],
+  "register_tabs_removed": true,
+  "back_wall_identical_to_Rev11": true,
+  "sample_positions_mm": [
+    0,
+    5,
+    10,
+    15,
+    20,
+    25,
+    30,
+    35,
+    40,
+    45,
+    50,
+    55,
+    60,
+    65,
+    70,
+    75,
+    80,
+    85,
+    90,
+    95,
+    100
+  ],
+  "motion_collisions": [],
+  "body_collisions": [],
+  "height_lock_verified_mm": [
+    0,
+    50,
+    100
+  ],
+  "STL": {
+    "Electrode_Carriage_Arm_Rev13_x1.stl": {
+      "triangles": 2924,
+      "nonmanifold_edges": 0
+    },
+    "Electrode_Fixed_Rail_Rev13_x1.stl": {
+      "triangles": 2660,
+      "nonmanifold_edges": 0
+    },
+    "Electrode_Thumb_Cap_Rev13_x2.stl": {
+      "triangles": 1260,
+      "nonmanifold_edges": 0
+    },
+    "Electrode_Back_Plate_Rev13_x1.stl": {
+      "triangles": 2556,
+      "nonmanifold_edges": 0
+    },
+    "Electrode_Sliding_Nut_Bar_Rev13_x1.stl": {
+      "triangles": 1332,
+      "nonmanifold_edges": 0
+    },
+    "Electrode_Clamp_Jaw_Rev13_x1.stl": {
+      "triangles": 1588,
+      "nonmanifold_edges": 0
+    }
+  },
+  "print_bounds_mm": {
+    "Electrode_Fixed_Rail": [
+      70.0,
+      146.0,
+      12.0006
+    ],
+    "Electrode_Back_Plate": [
+      70.0,
+      96.0,
+      3.0006
+    ],
+    "Electrode_Carriage_Arm": [
+      50.0,
+      63.2017,
+      20.0028
+    ],
+    "Electrode_Clamp_Jaw": [
+      34.0,
+      12.5017,
+      20.0028
+    ],
+    "Electrode_Sliding_Nut_Bar": [
+      46.0,
+      18.0,
+      5.0003
+    ]
+  },
+  "reference_electrode_length_mm": 120,
+  "electrode_tip_below_grip_centre_mm": 102,
+  "tip_above_shelf_low_high_mm": [
+    13,
+    113
+  ],
+  "glass_inner_floor_clearance_low_mm": 10,
+  "reference_rod_roof_clearance_high_mm": 19,
+  "rod150_roof_collision_at_travel100_mm": 11,
+  "rod150_travel_limit_with_14mm_roof_clearance_mm": 75,
+  "physical_tested": false,
+  "native_SW_tested": false,
+  "sheet_thickness_mm": 3,
+  "rod150_checked_lift_mm": [
+    0,
+    5,
+    10,
+    15,
+    20,
+    25,
+    30,
+    35,
+    40,
+    45,
+    50,
+    55,
+    60,
+    65,
+    70,
+    75
+  ],
+  "simultaneous_height_and_electrode_clamp_verified_at_mm": [
+    0,
+    100
+  ],
+  "print_plate_manifold_edges_verified": true
+}

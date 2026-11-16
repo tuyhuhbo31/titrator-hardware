@@ -1,0 +1,32 @@
+{
+  "01_body/assembly/Body_With_New_Pump_Lid.step": {
+    "solids": 21,
+    "new_lid_mm": [
+      392.4,
+      139.9,
+      3
+    ],
+    "new_lid_intersections": 0,
+    "single_STEP_product": true
+  },
+  "04_full_assembly/Complete_Low_With_New_Pump_Lid.step": {
+    "solids": 90,
+    "new_lid_mm": [
+      392.4,
+      139.9,
+      3
+    ],
+    "new_lid_intersections": 0,
+    "single_STEP_product": true
+  },
+  "04_full_assembly/Complete_High_With_New_Pump_Lid.step": {
+    "solids": 90,
+    "new_lid_mm": [
+      392.4,
+      139.9,
+      3
+    ],
+    "new_lid_intersections": 0,
+    "single_STEP_product": true
+  }
+}
